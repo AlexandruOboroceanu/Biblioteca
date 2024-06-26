@@ -1,0 +1,3 @@
+interface Ageable {
+    int getAge();
+}
